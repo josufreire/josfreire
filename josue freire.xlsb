@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>sengundo informatica</title>
+    <link rel="stylesheet" type="text/css" href=""> 
+</head>
+
+<body>
+<h1> pasos para crear una cuenta github</h1>	
+<p><a href="https://github.com/">GITHUB</a> Crear una cuenta de GitHub es muy sencillo. Tan sólo se necesita disponer previamente de una cuenta de correo electrónico .</p>
+
+<h2> Abra la página https://github.com.
+Rellene los campos:</h2>
+
+<img src="https://www.mclibre.org/consultar/informatica/img/git/github-crear-cuenta-01.png">
+
+<h3>En la pantalla siguiente, elija el tipo de cuenta (que se puede cambiar posteriormente):</h3>
+<img src="https://www.mclibre.org/consultar/informatica/img/git/github-crear-cuenta-02.png">
+
+<h4>En la pantalla siguiente, conteste si lo desea unas preguntas simples sobre sus intereses en GitHub:</h4>
+<img src="https://www.mclibre.org/consultar/informatica/img/git/github-crear-cuenta-03.png">
+
+<h5>La pantalla final ofrece la posibilidad de seguir un tutorial o crear directamente un repositorio:</h5>
+<img src="https://www.mclibre.org/consultar/informatica/img/git/github-crear-cuenta-04.png">
+<h6>En la pantalla siguiente, elija el tipo de cuenta (que se puede cambiar posteriormente):</h6>
+<img src="https://www.mclibre.org/consultar/informatica/img/git/github-crear-cuenta-02.png">
+
+</body>
+   </html>
